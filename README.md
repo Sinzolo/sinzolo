@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My names Kez and I'm currently a student in my 3rd year of university.
-![Sinzolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinzolo&count_private=true)
+![Sinzolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinzolo&count_private=true&theme=radical)
