@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a recent Computer Science graduate from Lancaster University.
 <br>I have experience in several languages with my favourites being Java☕️, C©️, and JavaScript☕️📜.
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kez-gray-703735198)
+<br>[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kez-gray-703735198)
 &nbsp;
 <br><br>[![wakatime](https://wakatime.com/badge/user/ae5fb32b-c383-494f-adab-3f7d23c047ed.svg)](https://wakatime.com/@ae5fb32b-c383-494f-adab-3f7d23c047ed)
 <!---
