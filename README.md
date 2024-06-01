@@ -1,6 +1,7 @@
 ### Hi there 👋
-I'm a recent Computer Science graduate from Lancaster University.
-<br>I have experience in several languages with my favourites being Java☕️, C©️, and JavaScript☕️📜.
+I am currently an IT Systems Analyst at Breathe Technologies.
+<br>I graduated from Lancaster University with a first in a Bachelor Computer Science degree.
+<br>I have experience in several languages with my favourites being Java☕️ and JavaScript☕️📜 and a little bit of C on the side.
 <br>[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kez-gray-703735198)
 &nbsp;
 <br><br>Wakatime Stats Since Jan 2023:
